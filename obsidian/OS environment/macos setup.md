@@ -20,8 +20,9 @@ git clone --recurse-submodules git@github.com:steppovver/dotconfig.git
 brew install --cask google-chrome
 brew install --cask obsidian
 brew install --cask alacritty
+brew install --cask maccy
 
-brew install tmux neovim wget zsh git gpg pass zip unzip htop fzf bat ripgrep
+brew install tmux neovim wget zsh git gpg pass zip unzip htop fzf bat ripgrep qt
 ~~~
 # Download nerd font
 ```

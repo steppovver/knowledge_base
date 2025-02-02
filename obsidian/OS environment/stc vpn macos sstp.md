@@ -5,6 +5,7 @@ usepeerdns require-mschap-v2 noauth noipdefault noccp refuse-eap refuse-pap refu
 au.stc-spb.ru
 rubensp
 sstpc
+4kQsH4fH
 
 
 скрипт для запуска **sstp-client**
@@ -37,6 +38,10 @@ echo "Regular (non-vpn) gateway for your lan connections: $5" >> $logfile
 /sbin/route add 172.22.0.0/16 -interface $1 >> $logfile 2>&1
 ```
 
+# Don't forget add chmod +x
+```
+sudo chmod +x /etc/ppp/ip-up
+```
 
 
 [[macos setup]]
