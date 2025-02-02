@@ -14,7 +14,10 @@ sudo /opt/homebrew/Cellar/sstp-client/1.0.20/sbin/sstpc --log-level 4 --log-stdo
 ```
 
 ```
-~ ❯ cat /etc/ppp/ip-up                                                                                                                         
+~ ❯ cat /etc/ppp/ip-up 
+```
+
+```
 #!/bin/sh
 now=`date +%Y-%m-%d_%Hh%Mm%Ss`
 logfile=/var/log/ip-up.log
@@ -33,3 +36,7 @@ echo "Regular (non-vpn) gateway for your lan connections: $5" >> $logfile
 /sbin/route add 172.16.0.0/15 -interface $1 >> $logfile 2>&1
 /sbin/route add 172.22.0.0/16 -interface $1 >> $logfile 2>&1
 ```
+
+
+
+[[macos setup]]
