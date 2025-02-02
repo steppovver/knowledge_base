@@ -28,3 +28,4 @@ brew install tmux neovim wget zsh git gpg pass zip unzip htop fzf bat ripgrep
 wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/JetBrainsMono.zip
 ```
 
+[[stc vpn macos sstp]]
