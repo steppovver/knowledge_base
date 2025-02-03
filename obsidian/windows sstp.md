@@ -15,4 +15,5 @@ Add-VpnConnectionRoute -ConnectionName "STC VPN" -DestinationPrefix 192.168.222.
 Add-VpnConnectionRoute -ConnectionName "STC VPN" -DestinationPrefix 172.16.0.0/15 –PassThru
 Add-VpnConnectionRoute -ConnectionName "STC VPN" -DestinationPrefix 172.22.0.0/16 –PassThru
 ```
-1. Вуаля. Теперь работает и интернет и стцшные штучки дрючки
+13. Вуаля. Теперь работает и интернет и стцшные штучки дрючки
+
