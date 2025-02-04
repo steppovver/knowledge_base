@@ -6,6 +6,9 @@ Then need to add to `brew` to PATH after
 # Install OhMyZsh
 ~~~
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+echo "source \$HOME/.config/zsh/env.zsh" >> ~/.zshrc
+echo "source \$HOME/.config/zsh/aliases.zsh" >> ~/.zshrc
 ~~~
 # Clone GIT repositories
 
