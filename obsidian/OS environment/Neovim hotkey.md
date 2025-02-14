@@ -9,14 +9,20 @@
 - `a` - create file
 - `dy` - delete file
 - `enter` - open file
-## Editing
+## Normal mode
++ `G` - goes to end of file  
++ `o` - create new line  
++ `shift + o` - create new line up  
++ `Go` - create new line at and of file  
++ `gcc` - comment line
+## Editing mode
 + `i` - insert mode (insert on left side)
 + `a` - append mode (insert on right side)
 + `ctrl + hjkl` - move cursor in editing mode
 + `ctrl + O then o` - create new line in editing mode
 + `<leader> + h` - open terminal
 
-3j -- go down by 3 lines (relative)  
+3j  go down by 3 lines (relative)  
 3gg go to the 3rd line (absolute moving)  
   
 ------  

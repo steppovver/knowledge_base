@@ -2,3 +2,10 @@ https://askubuntu.com/questions/57339/connect-disconnect-from-vpn-from-the-comma
 
 
 sudo nmcli connection up id STC-SSTP
+
+
+```
+nmcli connection modify stcVPN +vpn.data "connection-type = password"
+```
+
+https://gitlab.gnome.org/GNOME/network-manager-sstp/-/issues/50
