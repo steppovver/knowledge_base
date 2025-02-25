@@ -12,6 +12,10 @@ git@github.com:steppovver/knowledge_base.git
 git clone --recurse-submodules git@github.com:steppovver/dotconfig.git .config
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
+to install plugins in tmux press 
+```
+<prefix> + I (capital)
+```
 # Download nerd font
 ```
 wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/JetBrainsMono.zip
