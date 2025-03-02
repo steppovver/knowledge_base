@@ -1,5 +1,7 @@
 # Common
 `<leader>` - space bar
+`<leader> + f + f` - find file by name
+
 ## General
 - `control + n` - show/hide file tree
 - `control + h` - go left window
