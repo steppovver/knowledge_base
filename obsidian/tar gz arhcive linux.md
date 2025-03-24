@@ -1,4 +1,5 @@
 
+# TAR GZ
 ## for unzip
 ```
 tar -xvzf build-marso-demo-shnaps.orig.tar.gz -C shnaps
@@ -18,3 +19,9 @@ tar czf name_of_archive_file.tar.gz name_of_directory_to_tar
 - `c` — create an archive file (as opposed to extract, which is `x`)
 - `f` — filename of the archive file
 - `z` — filter archive through `gzip` (remove this option to create a `.tar` file)
+
+# ZIP
+
+```
+unzip file.zip -d destination_folder
+```
