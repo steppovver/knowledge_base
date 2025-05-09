@@ -5,7 +5,7 @@ sudo nmcli connection up id STC-SSTP
 
 
 ```
-nmcli connection modify stcVPN +vpn.data "connection-type = password"
+nmcli connection modify stc-vpn-sstp +vpn.data "connection-type = password"
 ```
 
 https://gitlab.gnome.org/GNOME/network-manager-sstp/-/issues/50
