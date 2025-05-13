@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "7e350f2f75ede75d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6033d7d068479e79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff4f1ce9484d6f5c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdbfda902a973f5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ef0ad158c9ca49f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb2a512114f1b09a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f8a4b6f139eb89bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "99ceba727fc763bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0d8b68b8c30038e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dabc6a3e542fe739",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7269520aaf774066",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Games.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Games"
+            }
+          },
+          {
+            "id": "e4d9514890db9a46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Games.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Games"
+            }
+          },
+          {
+            "id": "53b4932c7f77be75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0f0cad007918089b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Games.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Games"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ff4f1ce9484d6f5c",
+  "lastOpenFiles": [
+    "Diablo/Season 8/Spear.md",
+    "Diablo/Season 8/Untitled.md",
+    "Diablo/Season 8/метеориты.md",
+    "Diablo/Season 8",
+    "Diablo/Untitled",
+    "Diablo/метеориты.md",
+    "Diablo/diablo 4 start season.md",
+    "Diablo/Pasted image 20250502220252.png",
+    "Games.md"
+  ]
+}
