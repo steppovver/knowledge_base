@@ -62,6 +62,8 @@ Aspect of Splintering Energy
 **Аспект**
 1. Deal uncreased damage while u have a barrier
 2. Aspect of Elements
+
+![[Pasted image 20250511115337.png]]
 ## Кольцо
 Тал раша
 12% кулдаун редакшн
