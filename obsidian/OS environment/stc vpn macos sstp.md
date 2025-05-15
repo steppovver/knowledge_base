@@ -5,7 +5,6 @@ usepeerdns require-mschap-v2 noauth noipdefault noccp refuse-eap refuse-pap refu
 au.stc-spb.ru
 rubensp
 sstpc
-4kQsH4fH
 
 
 скрипт для запуска **sstp-client**
