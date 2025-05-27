@@ -9,7 +9,7 @@ libboost-all-dev
 ```
 # Добавить сторонний репозиторий
 ```
-echo "deb [trusted=yes] http://192.168.222.34:5080/apt ubuntu20/" | sudo tee /etc/apt/sources.list.d/ospp3.list > /dev/null
+echo "deb [trusted=yes] http://172.26.34.27:5080/apt ubuntu20/" | sudo tee /etc/apt/sources.list.d/ospp3.list > /dev/null
 sudo apt update
 ```
 # Install OhMyZsh
