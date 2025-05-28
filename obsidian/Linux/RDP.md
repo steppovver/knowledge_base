@@ -21,7 +21,7 @@ xfreerdp /u:<имя пользователя> /p:<пароль> /v:<ip:port> /bp
 bpp - количетсво бит используемых для передачи цвета. 16 минимум и вроде его достаточно.
 
 ```
-xfreerdp /u:prubens /p:0113 /w:1280 /h:720 /v:192.168.222.27:25566 /video /rfx /network:lan /gfx /dynamic-resolution /sound:sys:pulse
+xfreerdp /u:prubens /p:0113 /w:1280 /h:720 /v:172.26.34.27:25566 /video /rfx /network:lan /gfx /dynamic-resolution /sound:sys:pulse
 ```
 
 xfreerdp /u:prubens /p:0113 /v:192.168.222.27:25565 /network:wan /video /rfx /gfx /smart-sizing:1280x720

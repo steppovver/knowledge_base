@@ -16,10 +16,12 @@
 + `o` - create new line  
 + `shift + o` - create new line up  
 + `Go` - create new line at and of file  
-+ `gcc` - comment line
++ `gcc` - **comment** line
 - Press `u` in **Normal mode** to undo the last change.
 + Press `Ctrl + r` in **Normal mode** to redo the last undone change
 + `$` – goes to **end** of line
++ `ctrl + f` – move screen **down** one **page**
++ `ctrl + b` – move screen **up** one **page**
 ## Editing mode
 + `i` - insert mode (insert on left side)
 + `a` - append mode (insert on right side)
