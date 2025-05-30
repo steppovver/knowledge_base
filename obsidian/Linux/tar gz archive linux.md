@@ -25,7 +25,7 @@ tar czf name_of_archive_file.tar.gz name_of_directory_to_tar
 ```
 sudo apt-get install lzop
 ```
-## Compressn
+## Compress
 ```
 tar -cvf - folder_name | lzop -c > archive_name.tar.lzo
 ```
