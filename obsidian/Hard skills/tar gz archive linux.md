@@ -31,7 +31,7 @@ tar -cvf - folder_name | lzop -c > archive_name.tar.lzo
 ```
 ## Extract
 ```
-tar --lzo -cvf archive_name.tar.lzo folder_name
+tar --lzop -xf archive.tar.lzo -C ./extracted_files
 ```
 
 # ZIP
