@@ -21,7 +21,7 @@ tar czf name_of_archive_file.tar.gz name_of_directory_to_tar
 - `z` — filter archive through `gzip` (remove this option to create a `.tar` file)
 # LZO
 
-# Install
+## Install
 ```
 sudo apt-get install lzop
 ```
@@ -32,6 +32,16 @@ tar -cvf - folder_name | lzop -c > archive_name.tar.lzo
 ## Extract
 ```
 tar --lzop -xf archive.tar.lzo -C ./extracted_files
+```
+
+## Create a tar.lzo archive
+```
+tar --lzo -cvf compressed_folder.tar.lzo /path/to/folder
+```
+
+## Extract
+```
+tar --lzo -xvf compressed_folder.tar.lzo
 ```
 
 # ZIP
