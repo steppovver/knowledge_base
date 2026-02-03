@@ -16,3 +16,5 @@ opkg --add-arch arm64:10 --force-depends remove
 --force-downgrade
 ## Force install
 --force-depends
+
+[[Hard skills]]
