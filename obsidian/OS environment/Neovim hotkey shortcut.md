@@ -22,6 +22,8 @@
 + `$` – goes to **end** of line
 + `ctrl + f` – move screen **down** one **page**
 + `ctrl + b` – move screen **up** one **page**
++ `ctrl + y` – move screen **down** one **line** but cursor stays
++ `ctrl + e` – move screen **up** one **line**  but cursor stays
 ## Editing mode
 + `i` - insert mode (insert on left side)
 + `a` - append mode (insert on right side)
